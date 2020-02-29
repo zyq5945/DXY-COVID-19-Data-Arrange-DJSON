@@ -1,0 +1,6 @@
+﻿[
+["TimeOffset","UpdateTime","ParentName","ChildName","ChildConfirmedCount","ChildSuspectedCount","ChildCuredCount","ChildDeadCount","ChildTreatingCount","ChildCuredRate","ChildDeadRate","ChildTreatingRate","ChildDeadDivideCured","ChildCuredDivideDead","ChildConfirmedCountRate","ChildSuspectedCountRate","ChildCuredCountRate","ChildDeadCountRate","ChildTreatingCountRate","ChildConfirmedNorm","ChildSuspectedNorm","ChildCuredNorm","ChildDeadNorm","ChildTreatingNorm","ChildDeadDivideCuredNorm","ChildCuredDivideDeadNorm","ChildTatalConfirmedNorm","ChildTatalSuspectedNorm","ChildTatalCuredNorm","ChildTatalDeadNorm","ChildTatalTreatingNorm"],
+[8.377912,"2020-02-01 09:04:11.540","江苏","待明确地区",0,0,3,0,null,null,null,null,0,null,0,null,0.375,null,null,null,null,0.1875,null,null,null,null,0,null,0.0001707262,0,null],
+[12.38836,"2020-02-05 09:19:14.153","江苏","待明确地区",0,0,5,0,null,null,null,null,0,null,0,null,0.2941177,null,null,null,null,0.3125,null,null,null,null,0,null,0.0002845436,0,null],
+[26.37009,"2020-02-19 08:52:55.443","江苏","待明确地区",0,0,16,0,null,null,null,null,0,null,0,null,0.05405406,null,null,null,null,1,null,null,null,null,0,null,0.0009105395,0,null]
+]

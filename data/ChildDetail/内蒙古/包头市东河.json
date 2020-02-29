@@ -1,0 +1,7 @@
+﻿[
+["TimeOffset","UpdateTime","ParentName","ChildName","ChildConfirmedCount","ChildSuspectedCount","ChildCuredCount","ChildDeadCount","ChildTreatingCount","ChildCuredRate","ChildDeadRate","ChildTreatingRate","ChildDeadDivideCured","ChildCuredDivideDead","ChildConfirmedCountRate","ChildSuspectedCountRate","ChildCuredCountRate","ChildDeadCountRate","ChildTreatingCountRate","ChildConfirmedNorm","ChildSuspectedNorm","ChildCuredNorm","ChildDeadNorm","ChildTreatingNorm","ChildDeadDivideCuredNorm","ChildCuredDivideDeadNorm","ChildTatalConfirmedNorm","ChildTatalSuspectedNorm","ChildTatalCuredNorm","ChildTatalDeadNorm","ChildTatalTreatingNorm"],
+[3.406507,"2020-01-27 09:45:22.239","内蒙古","包头市东河",1,0,0,0,1,0,0,1,null,null,0.09090909,null,null,null,0.09090909,0.5,null,null,null,0.5,null,null,2.059435E-05,null,0,0,2.631094E-05],
+[3.407208,"2020-01-27 09:46:22.770","内蒙古","包头市东河",1,0,0,0,1,0,0,1,null,null,0.09090909,null,null,null,0.09090909,0.5,null,null,null,0.5,null,null,2.059435E-05,null,0,0,2.631094E-05],
+[3.407909,"2020-01-27 09:47:23.300","内蒙古","包头市东河",2,0,0,0,2,0,0,1,null,null,0.1818182,null,null,null,0.1818182,1,null,null,null,1,null,null,4.11887E-05,null,0,0,5.262189E-05],
+[3.408609,"2020-01-27 09:48:23.835","内蒙古","包头市东河",2,0,0,0,2,0,0,1,null,null,0.1818182,null,null,null,0.1818182,1,null,null,null,1,null,null,4.11887E-05,null,0,0,5.262189E-05]
+]
