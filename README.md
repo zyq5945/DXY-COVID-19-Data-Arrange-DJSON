@@ -18,6 +18,7 @@
 #### [gitee.io  网站地址](https://zyq5945.gitee.io/dxy-covid-19-data-arrange-djson/)
 
 注: gitee.io的子文件地址和github.io的寻址方式不一样，请自行在浏览器中测试调整
+
 注：gitee.io不是动态更新的，需要使用gitee.io最新数据请自行克隆仓库后再手动发布
 
 
